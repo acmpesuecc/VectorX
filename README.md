@@ -19,6 +19,7 @@ Features ✨
 
 Project Structure 🗂️
 ---------------------
+```
 Celeris/
 ├── Makefile  
 ├── README.md  
@@ -75,7 +76,7 @@ Celeris/
     ├── clang-tidy  
     ├── valgrind_suppressions.supp  
     └── Dockerfile  
-
+```
 Getting Started 🚀
 -------------------
 ### Prerequisites 🛠️
@@ -149,7 +150,7 @@ Features ✨
 
 Project Structure 🗂️
 ---------------------
-```text
+```
 Celeris/
 ├── Makefile  
 ├── README.md  
