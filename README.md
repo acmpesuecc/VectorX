@@ -1,5 +1,5 @@
 
-Celeris 🚀
+VectorX 🚀
 ==========
 
 A High-Performance 2D Physics Engine in C 🛠️
