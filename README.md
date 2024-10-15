@@ -88,7 +88,7 @@ Getting Started 🚀
 ### Installation ⚙️
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/celeris.git
+   git clone git@github.com:acmpesuecc/VectorX.git
    cd celeris
    ```
 2. Build the Project: Using Make:
